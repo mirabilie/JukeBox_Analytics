@@ -48,7 +48,7 @@ Devices and customer payments are tracked using event-based infrastructure, whic
 ## Getting Started
 
 1. Clone this repository.
-2. Review `models/` for dbt models.
+2. Review `ER Diagram/` for dbt models.
 3. See `docs/` for event definitions and logic guides.
 4. Use `dashboards/` for examples of self-service analytics.
 
